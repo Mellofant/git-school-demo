@@ -1,4 +1,5 @@
 # Git School – Demo Project
-* [git help]('./../notes/git-help.md)
-* [git status]('./../notes/git-status.md)
-* [git add]('./../notes/git-add.md)
+* [git help](./docs/git-help.md)
+* [git status](./docs/git-status.md)
+* [git add](./docs/git-add.md)
+* [git merge](./docs/git-merge.md)
